@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+	<h2>Scalable Vector Graphics</h1>
+
+</head>
+
+<body>
+
+
+	<div>
+
+		<p>	According to <a href="https://whatis.techtarget.com/definition/Scalable-Vector-Graphics-SVG">Tech Target</a>, Scalable Vector Graphics or SVG is the description of an image as an application of the XML or Extensible Markup language. A web browser or any program that recognizes XML can display the image using the available SVG format.TechTarget also states that vector graphics can be made scalable.<br /> The SVG format enables the viewing you to view the image on a computer display of any size or resolution. SVG also allows text within images to be recognized as such and that comes in handy when using a search engine to locate text.
+	</div>
+
+	<hr />
+
+	<div>
+
+		<p>	The website <a href="https://developer.mozilla.org/en-US/docs/Web/SVG">Mozilla</a> describes Scalable Vector Graphics as an XML based markup language that describes two dimentional based vector graphics. It is a text based, standard for describing images that can be rendered at any size and works well with other web standards. <br /> The following line from the website was a good comparison; SVG is, essentially, to graphics what HTML is to text. SVG images are defined in XML text files, thus enabling them to be searched, indexed, and compressed using any text editor. Another great thing of SVG is that the graphics do not lose the quality regardless of size.</p>
+	</div>
+
+
+</body>
+
+</html>
